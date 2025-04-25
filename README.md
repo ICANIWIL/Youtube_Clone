@@ -4,8 +4,6 @@
 A feature-rich YouTube clone built using the MERN stack, JWT for authentication, and Firebase Storage for video and file storage. This project aims to replicate the core functionalities of YouTube, allowing users to upload, view, like, comment, and interact with videos.
 
 
-## Demo
-
 
 
 ## Features
@@ -18,8 +16,7 @@ A feature-rich YouTube clone built using the MERN stack, JWT for authentication,
 - Create playlists and share them with others.
 - Video storage using Firebase Storage.
 - YouTube studio to manage channel and content.
-- Responsive design for mobile and desktop.
-- And much more...
+
 
 ## Technologies Used
 
@@ -30,18 +27,6 @@ A feature-rich YouTube clone built using the MERN stack, JWT for authentication,
 - **Firebase Storage**: Cloud storage for video uploads.
 - **JSON Web Tokens (JWT)**: For user authentication.
 - **React Icons & MUI**: For icons.
-
-
-## Configuration
-1. Create a `.env` file in the root directory of your project.
-2. Add necessary environment variables to the `.env` file, such as database connection URLs, API keys, or other sensitive data.
-3. Add your own MongoDB Atlas URI in the datbase file inside the backend folder.
-
-```bash
-SECRET_KEY=your-secret-key
-EMAIL=email-to-use-as-nodemailer-service
-PASSWORD=google-app-password
-```
 
 ## Running the Application
 ### Server
