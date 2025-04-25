@@ -1,7 +1,7 @@
-# MERN YouTube Clone
+# YouTube_Clone
 
 
-A feature-rich YouTube clone built using the MERN stack, JWT for authentication, and Firebase Storage for video and file storage. This project aims to replicate the core functionalities of YouTube, allowing users to upload, view, like, comment, and interact with videos.
+A full-stack YouTube clone where users can view and interact with videos, JWT for authentication, and Firebase Storage for video and file storage. This project aims to replicate the core functionalities of YouTube, allowing users to upload, view, like, comment, and interact with videos.
 
 
 
